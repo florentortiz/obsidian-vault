@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#tipo/tarefa",
+      "color": {
+        "a": 1,
+        "rgb": 16731212
+      }
+    },
+    {
+      "query": "tag:#tipo/projeto",
+      "color": {
+        "a": 1,
+        "rgb": 5025616
+      }
+    },
+    {
+      "query": "tag:#tipo/diario",
+      "color": {
+        "a": 1,
+        "rgb": 14533026
+      }
+    },
+    {
+      "query": "tag:#tipo/reflexao",
+      "color": {
+        "a": 1,
+        "rgb": 14533026
+      }
+    },
+    {
+      "query": "tag:#tipo/estudo",
+      "color": {
+        "a": 1,
+        "rgb": 4367861
+      }
+    },
+    {
+      "query": "tag:#tipo/habitos",
+      "color": {
+        "a": 1,
+        "rgb": 11225020
+      }
+    },
+    {
+      "query": "tag:#tipo/ideia ",
+      "color": {
+        "a": 1,
+        "rgb": 14268249
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 14.9479166666667,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.13168724279835375,
+  "close": true
+}

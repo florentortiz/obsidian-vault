@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99 - Meta/Organizacao/Guia de uso da Vault.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guia de uso da Vault"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "136105fe5c0ddb96",
+    "type": "split",
+    "children": [
+      {
+        "id": "57e20f04e8275926",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68bb7de61e844525",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9a10e6ef0d570334",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#contexto/pessoal",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4969f961c272dabd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5de8b220cbeefcea",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2a7e015cce2c8b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "811f404e32f0ca6a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 - Estudos/Obsidian/Como classificar notas com tags.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Como classificar notas com tags"
+            }
+          },
+          {
+            "id": "0ac43fd320574710",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 - Estudos/Obsidian/Como classificar notas com tags.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Como classificar notas com tags"
+            }
+          },
+          {
+            "id": "d6f4130da538faf4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b177905d8a389fcc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "99 - Meta/Organizacao/Guia de uso da Vault.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Guia de uso da Vault"
+            }
+          },
+          {
+            "id": "ec7dad01632b5f8d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 400.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "99 - Meta/Organizacao/Como classificar notas com tags.md",
+    "99 - Meta/Templates/(TEMPLATE) Daily.md",
+    "00 - Dashboard/HOME.md",
+    "README.md",
+    "01 - Pessoal/Diario/2024-10-20.md",
+    "01 - Pessoal/Saude/Rotina.md",
+    "99 - Meta/Organizacao/Guia de uso da Vault.md",
+    "99 - Meta/Organizacao/Métodos Organizacionais no Obsidian.md",
+    "99 - Meta/Templates/(TEMPLATE) Tarefa.md",
+    "99 - Meta/Templates/(TEMPLATE) Projeto.md",
+    "99 - Meta/Templates/(TEMPLATE) Ideia.md",
+    "99 - Meta/Templates/(TEMPLATE) Estudos.md",
+    "01 - Pessoal/Diario/2024-10-30.md",
+    "01 - Pessoal/Diario/2024-05-19.md",
+    "01 - Pessoal/Diario/2024-05-20.md",
+    "01 - Pessoal/Diario/2024-05-18.md",
+    "99 - Meta/Templates/(TEMPLATE) Revisao.md",
+    "01 - Pessoal/Fleeting/Prompt para claude.md",
+    "01 - Pessoal/Saude/Dieta.md",
+    "contexto pessoal.md",
+    "01 - Pessoal/Fleeting/Artigos para checar.md",
+    "01 - Pessoal/Fleeting/Coisas para investigar.md",
+    "01 - Pessoal/Saude/Lista de Compras.md",
+    "01 - Pessoal/Reflexoes/2023-12-27 Não consigo aproveitar férias.md",
+    "01 - Pessoal/Reflexoes/2023-11-29 Me pressiono a ser produtivo.md",
+    "01 - Pessoal/Reflexoes/2023-11-15 Visão de si aos olhos do outro.md",
+    "04- Referencias/Cursos",
+    "02 - Conhecimento/Historia",
+    "02 - Conhecimento/Saude",
+    "02 - Conhecimento/Literatura",
+    "01 - Pessoa/Diario",
+    "01 - Pessoa",
+    "Diário",
+    "05 - Arquivados",
+    "05 - Referencias/Untitled",
+    "06 - Readwise/Books",
+    "Untitled.canvas"
+  ]
+}

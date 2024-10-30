@@ -1,0 +1,44 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiCar",
+      "LiFeather",
+      "LiNotebookPen",
+      "LiBackpack",
+      "LiInfo"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "03 - Projetos": "LiBriefcase",
+  "99 - Meta": "LiSettings",
+  "README.md": "LiInfo",
+  "00 - Dashboard": "LiAsterisk",
+  "00 - Dashboard/HOME.md": "LiHome",
+  "01 - Pessoal": "LiHeart",
+  "04- Referencias": "LiBackpack",
+  "02 - Conhecimento": "LiBook"
+}
