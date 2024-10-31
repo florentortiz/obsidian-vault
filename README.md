@@ -24,7 +24,7 @@ A minimalist yet powerful template for organizing your Obsidian vault, focusing 
 2. Open Obsidian
 3. Select "Open folder as vault" and choose the template folder
 4. Start with `00 - Dashboard/Home.md` to understand navigation
-5. Check `99 - Meta/Organization/` for detailed guides on how to use the system
+5. Check `99 - Meta/System/` for detailed guides on how to use the system
 
 ## 📁 Folder Structure
 
@@ -54,7 +54,7 @@ A minimalist yet powerful template for organizing your Obsidian vault, focusing 
 │   └── Tutorials/
 └── 99 - Meta/              # System and templates
     ├── Templates/
-    └── Organization/
+    └── System/
 ```
 
 ## 🏷️ Tagging System
