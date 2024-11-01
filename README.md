@@ -4,7 +4,7 @@ A minimalist yet powerful template for organizing your Obsidian vault, focusing 
 
 ## ✨ Features
 
-- 📁 **Strictly Limited Hierarchy**: One-level depth maximum - no nested folders!
+- 📁 **Strictly Limited Hierarchy**: One-level depth maximum - no deep nested folders!
 - 🏷️ Comprehensive and flexible tagging system
 - 🔗 Strategic use of links and MOCs (Maps of Content)
 - 📝 Ready-to-use templates for different note types
