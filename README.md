@@ -58,7 +58,8 @@ A minimalist yet powerful template for organizing your Obsidian vault, focusing 
 ```
 
 ## 🏷️ Tagging System
-Check [the tag guide](99 - Meta/System/How to classify notes with tags.md) for a complete list
+Check the [tag guide](99%20-%20Meta/System/Guide%20to%20Tags%20and%20Links%20-%20Note%20Organization%20in%20Obsidian.md)
+ for a complete list
 
 ### 1. Type Tags
 Identify the nature of the note:
