@@ -1,13 +1,15 @@
 ---
-aliases: 
-  - Reflexão
-tags: 
-  - tipo/reflexao
-  - contexto/pessoal
-  - tema/default
-  - revisao/pendente
-data: {{date}}
-data_atualizacao: {{date}}
+aliases:
+  - Reflection - {{title}}
+tags:
+  - type/reflection
+  - context/default
+  - theme/default
+  - review/pending
+date:
+  "{{date}}": 
+date_update:
+  "{{date}}":
 ---
 
 # Reflexão sobre [Tema]

@@ -3,10 +3,10 @@ aliases:
   - Nota Diária {{date}}
   - Daily Note {{date}}
 tags: 
-  - tipo/diario
-  - contexto/pessoal
-data: {{date}}
-data_atualizacao: {{date}}
+  - type/daily
+  - context/personal
+date: {{date}}
+date_update: {{date}}
 ---
 
 # Nota Diária - {{date}}

@@ -1,14 +1,17 @@
 ---
 aliases:
-  - Revisão
+  - Review - {{title}}
 tags:
-  - tipo/revisao
-  - contexto/estudos
-  - tema/default
-data:
-  "{ date }": 
-data_atualizacao:
-  "{ date }":
+  - type/study
+  - context/studies
+  - theme/default
+  - priority/high
+  - status/in-progress
+  - review/pending
+date:
+  "{{date}}": 
+date_update:
+  "{{date}}":
 ---
 
 # Revisão de [Tema]

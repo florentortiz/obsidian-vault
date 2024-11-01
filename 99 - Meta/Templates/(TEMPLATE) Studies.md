@@ -1,17 +1,17 @@
 ---
 aliases:
-  - Estudo
+  - Study - {{title}}
 tags:
-  - tipo/estudo
-  - contexto/estudos
-  - tema/default
-  - prioridade/alta
-  - estado/em-progresso
-  - revisao/pendente
-data:
-  "{ date }": 
-data_atualizacao:
-  "{ date }":
+  - type/study
+  - context/studies
+  - theme/default
+  - priority/high
+  - status/in-progress
+  - review/pending
+date:
+  "{{date}}": 
+date_update:
+  "{{date}}":
 ---
 
 # Estudo de [Tema]

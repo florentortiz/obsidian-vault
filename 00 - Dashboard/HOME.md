@@ -1,63 +1,63 @@
-# 🎯 Dashboard Pessoal
+# 🎯 Personal Dashboard
 
-> [!quote] Pensamento do Dia
-> "A vida é o que acontece enquanto você está ocupado fazendo outros planos." - John Lennon
+> [!quote] Thought of the Day
+> "Life is what happens while you're busy making other plans." - John Lennon
 
-> [!warning] **Aviso Importante**
-> - Esta dashboard é apenas um exemplo, que pressupoe anotações
-> - que nao existem no seu vault. Por favor, adapte ao seu uso.
-> - Tome isto como inspiração para criar sua própria dashboard.
+> [!warning] **Important Notice**
+> - This dashboard is just an example, which assumes notes
+> - that don't exist in your vault. Please adapt it to your use.
+> - Take this as inspiration to create your own dashboard.
 
 
-## 🌅 Links Rápidos
-- [[Rotina|Minha Rotina]] 
-- [[Treino|Programa de Treino]] 
-- [[Dieta|Dieta]] 
-- [[01 - Pessoal/Diario/{{date}}|Entrada de Hoje]] 
-- [[Tasks|Tarefas Pendentes]]
+## 🌅 Quick Links
+- [[Routine|My Routine]] 
+- [[Training|Training Program]] 
+- [[Diet|Diet]] 
+- [[01 - Personal/Daily/{{date}}|Today's Entry]] 
+- [[Tasks|Pending Tasks]]
 
-## 🎯 Áreas de Foco
+## 🎯 Focus Areas
 
-> [!info] Estudos Ativos
-> - [[02 - Conhecimento/Computação/Cibersegurança|🔒 Cibersegurança]]
-> - [[02 - Conhecimento/Computação/Desenvolvimento|💻 Desenvolvimento]]
-> - [[02 - Conhecimento/Humanidades/Estoicismo|📚 Estoicismo]]
+> [!info] Active Studies
+> - [[02 - Knowledge/Computing/Cybersecurity|🔒 Cybersecurity]]
+> - [[02 - Knowledge/Computing/Development|💻 Development]]
+> - [[02 - Knowledge/Humanities/Stoicism|📚 Stoicism]]
 
-> [!tip] Projetos em Andamento
-> - [[03 - Projetos/Projeto 1|🚀 Projeto Principal]]
-> - [[03 - Projetos/Projeto 2|🎮 Game Dev]]
-> - [[Tasks#Em Progresso|📋 Ver Todos]]
+> [!tip] Ongoing Projects
+> - [[03 - Projects/Project 1|🚀 Main Project]]
+> - [[03 - Projects/Project 2|🎮 Game Dev]]
+> - [[Tasks#In Progress|📋 View All]]
 
-## 💪 Saúde & Bem-estar
+## 💪 Health & Wellness
 
-> [!success] Rotinas & Hábitos
+> [!success] Routines & Habits
 > ```dataview
-> TASK FROM "01 - Pessoal/Rotina"
+> TASK FROM "01 - Personal/Routine"
 > WHERE !completed
 > LIMIT 5
 > ```
 
-> [!note] Próximos Treinos
+> [!note] Upcoming Workouts
 > ```dataview
-> LIST FROM #tipo/treino AND #estado/em-progresso
+> LIST FROM #type/workout AND #status/in-progress
 > LIMIT 3
 > ```
 
-## 📚 Aprendizado Contínuo
+## 📚 Continuous Learning
 
-> [!note] Últimas Notas de Estudo
+> [!note] Latest Study Notes
 > ```dataview
-> TABLE file.ctime as "Criado"
-> FROM "02 - Conhecimento"
+> TABLE file.ctime as "Created"
+> FROM "02 - Knowledge"
 > SORT file.ctime DESC
 > LIMIT 3
 > ```
 
 ---
 ## ⚡ Quick Capture
-- [ ] Nova Tarefa
-- [ ] Nova Ideia
-- [ ] Novo Projeto
+- [ ] New Task
+- [ ] New Idea
+- [ ] New Project
 
 ---
-*Última atualização: {{date}}*
+*Last updated: {{date}}*

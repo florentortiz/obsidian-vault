@@ -1,15 +1,17 @@
 ---
 aliases:
-  - Tarefa
+  - Task - {{title}}
 tags:
-  - tipo/tarefa
-  - contexto/default
-  - prioridade/alta
-  - estado/em-progresso
-data:
-  "{ date }": 
-data_atualizacao:
-  "{ date }":
+  - type/study
+  - context/studies
+  - theme/default
+  - priority/high
+  - status/in-progress
+  - review/pending
+date:
+  "{{date}}": 
+date_update:
+  "{{date}}":
 ---
 
 # Tarefa: [Descrição da Tarefa]

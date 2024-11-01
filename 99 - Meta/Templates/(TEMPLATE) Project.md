@@ -1,16 +1,17 @@
 ---
 aliases:
-  - Projeto {{title}}
+  - Project - {{title}}
 tags:
-  - tipo/projeto
-  - contexto/trabalho
-  - tema/default
-  - prioridade/alta
-  - estado/em-progresso
-data:
-  "{ date }": 
-data_atualizacao:
-  "{ date }":
+  - type/project
+  - context/default
+  - theme/default
+  - priority/high
+  - status/in-progress
+  - review/pending
+date:
+  "{{date}}": 
+date_update:
+  "{{date}}":
 ---
 
 # Projeto: [Nome]

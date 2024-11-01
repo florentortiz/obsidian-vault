@@ -1,16 +1,17 @@
 ---
 aliases:
-  - Ideia
+  - Idea - {{title}}
 tags:
-  - tipo/ideia
-  - contexto/pessoal
-  - tema/default
-  - estado/planejamento
-  - revisao/pendente
-data:
-  "{ date }": 
-data_atualizacao:
-  "{ date }":
+  - type/idea
+  - context/default
+  - theme/default
+  - priority/medium
+  - status/in-progress
+  - review/pending
+date:
+  "{{date}}": 
+date_update:
+  "{{date}}":
 ---
 
 # Ideia: [Título da Ideia]
