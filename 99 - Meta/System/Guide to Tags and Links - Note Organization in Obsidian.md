@@ -82,7 +82,16 @@ Control notes' status, priority, and review needs.
 - `#review/completed` → Already reviewed
 - `#review/needed` → Needs review
 
-## **5. Using Links**
+## 5. Tag Usage Best Practices
+
+#### Required Minimum Tags
+To maintain consistency and facilitate search, each note should include at minimum:
+1. One type tag (`#type/...`)
+2. One context tag (`#context/...`)
+3. One theme tag (`#theme/...`)
+4. One status/priority tag when applicable
+
+## **6. Using Links**
 Links are fundamental for creating connections between notes, forming an interconnected knowledge network.
 
 ### Link Types
@@ -121,13 +130,13 @@ Links are fundamental for creating connections between notes, forming an interco
    - Use links to create flexible hierarchical structures
    - Example: `[[Programming]]` → `[[Algorithms]]` → `[[Sorting]]`
 
-## **6. Complete Usage Example**
+## **7. Complete Usage Example**
 
 ### Title: **RSA Implementation**
 **Tags**: 
 - `#theme/cybersecurity`
 - `#context/studies`
-- `#type/project`
+- `#type/study`
 - `#priority/high`
 - `#status/in-progress`
 - `#review/pending`
