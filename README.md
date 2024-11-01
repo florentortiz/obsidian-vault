@@ -1,11 +1,11 @@
 # 🗃️ Obsidian Vault Template
 
-A minimalist yet powerful template for organizing your Obsidian vault, focusing on simplicity and efficiency. The key feature of this system is its **intentionally flat structure** with a strict one-level depth hierarchy, complemented by a robust tagging and linking system.
+A minimalist yet powerful template for organizing your Obsidian vault, focusing on simplicity and efficiency. The key feature of this system is its **intentionally controlled structure** with a two-level depth hierarchy, complemented by a robust properties and tagging system.
 
 ## ✨ Features
 
-- 📁 **Strictly Limited Hierarchy**: One-level depth maximum - no deep nested folders!
-- 🏷️ Comprehensive and flexible tagging system
+- 📁 **Controlled Hierarchy**: Two-level depth maximum - keeps things organized yet simple!
+- 🏷️ Properties-based organization with comprehensive tagging
 - 🔗 Strategic use of links and MOCs (Maps of Content)
 - 📝 Ready-to-use templates for different note types
 - 🚀 Easy to start, powerful to scale
@@ -23,7 +23,8 @@ A minimalist yet powerful template for organizing your Obsidian vault, focusing 
 1. Clone this repository or download as ZIP
 2. Open Obsidian
 3. Select "Open folder as vault" and choose the template folder
-4. Check `99 - Meta/System/` for detailed guides on how to use the system
+4. Start with `00 - Dashboard/Home.md` to understand navigation
+5. Check `99 - Meta/System/` for detailed guides on how to use the system
 
 ## 📁 Folder Structure
 
@@ -56,9 +57,29 @@ A minimalist yet powerful template for organizing your Obsidian vault, focusing 
     └── System/
 ```
 
+## 📑 Note Properties Structure
+
+Every note in the system uses these standard properties in the YAML frontmatter:
+
+```yaml
+---
+aliases: [Alternative Names]
+tags:
+  - type/study
+  - context/academic
+  - theme/algorithms
+  - status/in-progress
+date: 2024-01-01
+last_updated: 2024-01-10
+---
+```
+
+### Example Note Structure
+
+[Check here](02%20-%20Knowledge/Computer/Algorithm_complexity.md)
+
 ## 🏷️ Tagging System
-Check the [tag guide](99%20-%20Meta/System/Guide%20to%20Tags%20and%20Links%20-%20Note%20Organization%20in%20Obsidian.md)
- for a complete list
+Tags are implemented within the properties system as shown in the examples above. Check [tag guide](99%20-%20Meta/System/Guide%20to%20Tags%20and%20Links%20-%20Note%20Organization%20in%20Obsidian.md) for a complete list.
 
 ### 1. Type Tags
 Identify the nature of the note:
@@ -90,7 +111,7 @@ Computing:
 #theme/dev           → Development
 #theme/os            → Operating systems
 #theme/algorithms    → Algorithms and structures
-#theme/AI            → Artificial intelligence
+#theme/AI           → Artificial intelligence
 
 ...and much more (see complete tag guide)
 ```
@@ -106,7 +127,7 @@ Control status and priority:
 ### Tag Usage Best Practices
 
 #### Required Minimum Tags
-To maintain consistency and facilitate search, each note should include at minimum:
+To maintain consistency and facilitate search, each note should include at minimum in its properties:
 1. One type tag (`#type/...`)
 2. One context tag (`#context/...`)
 3. One theme tag (`#theme/...`)
