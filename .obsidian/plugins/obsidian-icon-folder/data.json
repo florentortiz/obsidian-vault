@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiCar",
-      "LiFeather",
-      "LiNotebookPen",
-      "LiBackpack",
-      "LiInfo"
+      "LiCrosshair",
+      "LiBriefcase",
+      "LiBook",
+      "LiHeart",
+      "LiCar"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,9 @@
   "00 - Dashboard/HOME.md": "LiHome",
   "01 - Pessoal": "LiHeart",
   "04- Referencias": "LiBackpack",
-  "02 - Conhecimento": "LiBook"
+  "02 - Conhecimento": "LiBook",
+  "01 - Personal": "LiHeart",
+  "02 - Knowledge": "LiBook",
+  "03 - Projects": "LiBriefcase",
+  "04 - References": "LiCrosshair"
 }
