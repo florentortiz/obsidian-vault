@@ -2,34 +2,37 @@
 aliases:
   - Review - {{title}}
 tags:
-  - type/study
+  - type/review
   - context/studies
   - theme/default
-  - priority/high
   - status/in-progress
   - review/pending
-date:
-  "{{date}}": 
-date_update:
-  "{{date}}":
+date: {{date}}
+last_updated: {{date}}
+related_study: [[original study note]]
 ---
 
-# Revisão de [Tema]
+# Review: {{title}}
 
-## Objetivo da Revisão
-O que você espera revisar ou aprender?
+## Review Purpose
+What specific aspects need reviewing?
 
-## Conteúdo a Revisar
-- Tópico 1
-- Tópico 2
+## Topics to Review
+- Topic 1
+- Topic 2
 
-## Notas
-- Anotações ou insights da revisão.
+## Understanding Check
+- [ ] Topic 1 fully understood
+- [ ] Topic 2 fully understood
 
-## Perguntas
-- O que ainda não entendi?
-- Como posso aplicar o que revisei?
+## Questions & Gaps
+- What remains unclear?
+- How can I apply this knowledge?
 
-## Referências
-- [Referência 1](link)
-- [Referência 2](link)
+## Next Steps
+- [ ] Areas needing further study
+- [ ] Practical applications to try
+
+## References
+- [Reference 1](link)
+- [Reference 2](link)

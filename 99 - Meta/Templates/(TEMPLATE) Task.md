@@ -2,36 +2,30 @@
 aliases:
   - Task - {{title}}
 tags:
-  - type/study
+  - type/task
   - context/studies
   - theme/default
   - priority/high
   - status/in-progress
-  - review/pending
-date:
-  "{{date}}": 
-date_update:
-  "{{date}}":
+date: {{date}}
+last_updated: {{date}}
 ---
 
-# Tarefa: [Descrição da Tarefa]
+# {{title}}
 
-## Prioridade
-- [ ] Alta
-- [ ] Média
-- [ ] Baixa
+## Due date
+- {{date}}
 
-## Data Limite
-[Data]
+## Description
+[Brief description of the task]
 
-## Status
-- [ ] Pendente
-- [ ] Em progresso
-- [x] Concluído
+## Steps
+- [ ] Step 1
+- [ ] Step 2
+- [ ] Step 3
 
-## Notas Adicionais
-- Detalhes ou passos que precisam ser seguidos.
+## Notes
+[Additional important information or context]
 
-## Referências
-- [Referência 1](link)
-- [Referência 2](link)
+## References
+- [Link description](url)

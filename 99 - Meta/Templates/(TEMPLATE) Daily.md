@@ -1,48 +1,53 @@
 ---
 aliases: 
-  - Nota Diária {{date}}
   - Daily Note {{date}}
 tags: 
   - type/daily
   - context/personal
 date: {{date}}
-date_update: {{date}}
+last_updated: {{date}}
 ---
 
-# Nota Diária - {{date}}
+# Daily Note - {{date}}
 
-## Métricas
-- Sono: /10
-- Energia: /10
-- Produtividade: /10
-- Humor: /10
+## Today's Focus
+Main goal for today:
 
-## Como me sinto hoje
-- [Escreva sobre o dia e suas emoções]
+## Wellbeing Metrics
+- Sleep: _/10
+- Energy: _/10
+- Mood: _/10
+- Productivity: _/10
 
-## Hábitos
-- [ ] Exercício
-- [ ] Meditação
-- [ ] Leitura
-- [ ] Água (2L)
+## Habits
+- [ ] Exercise
+- [ ] Meditation
+- [ ] Reading
+- [ ] Water (2L)
 
-## Aprendizados & Insights
+## Today's Notes
+### How I'm Feeling
+[Write about your day and emotions]
+
+### Learnings & Insights
 - [Insight 1]
 
-## Gratidão
+### Gratitude
 1. 
 2. 
 3. 
 
-## Links do Dia
-- [[Nota relacionada 1]]
-- [[Nota relacionada 2]]
+## Connected Notes
+- [[Related note 1]]
+- [[Related note 2]]
 
-## Intenção para Amanhã
-- Foco principal:
-- Três prioridades:
-  1. 
-  2. 
-  3. 
+## Tomorrow's Intent
+### Main Focus
+[Primary objective]
+
+### Top 3 Priorities
+1. 
+2. 
+3. 
 
 ---

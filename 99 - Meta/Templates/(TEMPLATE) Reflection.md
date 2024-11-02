@@ -3,32 +3,31 @@ aliases:
   - Reflection - {{title}}
 tags:
   - type/reflection
-  - context/default
+  - context/personal
   - theme/default
   - review/pending
-date:
-  "{{date}}": 
-date_update:
-  "{{date}}":
+date: {{date}}
+last_updated: {{date}}
 ---
 
-# Reflexão sobre [Tema]
+# Reflection: {{title}}
 
-## Contexto
-Descreva a situação ou contexto que levou à reflexão.
+## Context
+Describe the situation or context that led to this reflection.
 
-## Reflexões
-- Reflexão 1
-- Reflexão 2
+## Thoughts
+- Initial thoughts
+- Deeper reflections
 
-## Insights
+## Insights & Realizations
 - Insight 1
 - Insight 2
 
-## Perguntas
-- Como isso se relaciona com [outro tema]?
-- O que posso aprender com isso?
+## Questions & Future Considerations
+- How does this connect to [[related topic]]?
+- What can I learn from this?
+- How can I apply these insights?
 
-## Referências
-- [Referência 1](link)
-- [Referência 2](link)
+## References
+- [Reference 1](link)
+- [Reference 2](link)

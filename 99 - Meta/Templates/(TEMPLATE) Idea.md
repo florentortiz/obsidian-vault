@@ -5,31 +5,38 @@ tags:
   - type/idea
   - context/default
   - theme/default
-  - priority/medium
-  - status/in-progress
-  - review/pending
-date:
-  "{{date}}": 
-date_update:
-  "{{date}}":
+  - status/idea
+date: {{date}}
+last_updated: {{date}}
 ---
 
-# Ideia: [Título da Ideia]
+# Idea: {{title}}
 
-## Descrição
-Descreva a ideia de forma clara e concisa.
+## Description
+Describe the idea clearly and concisely.
 
-## Contexto
-Onde ou como essa ideia surgiu?
+## Context & Origin
+What sparked this idea? In what context did it emerge?
 
-## Potenciais Aplicações
-- Aplicação 1
-- Aplicação 2
+## Potential Applications
+- Application 1
+- Application 2
 
-## Perguntas
-- Quais são os próximos passos para desenvolver essa ideia?
-- Que obstáculos eu poderia enfrentar?
+## Development Thoughts
+- Initial considerations
+- Possible directions
+- Challenges to consider
 
-## Referências
-- [Referência 1](link)
-- [Referência 2](link)
+## Next Steps
+- [ ] Research needed
+- [ ] People to discuss with
+- [ ] Resources to explore
+
+## Questions to Explore
+- What problems could this solve?
+- What obstacles might arise?
+- Who could benefit from this?
+
+## References & Inspiration
+- [Reference 1](link)
+- [Reference 2](link)

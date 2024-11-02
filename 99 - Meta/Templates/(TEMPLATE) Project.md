@@ -6,55 +6,48 @@ tags:
   - context/default
   - theme/default
   - priority/high
-  - status/in-progress
-  - review/pending
-date:
-  "{{date}}": 
-date_update:
-  "{{date}}":
+  - status/planning
+date: {{date}}
+last_updated: {{date}}
 ---
 
-# Projeto: [Nome]
+# Project: {{title}}
 
-## Visão Geral
-- **Objetivo Principal**:
-- **Deadline**:
-- **Status Atual**:
+## Overview
+- **Main Objective**:
+- **Current Status**:
 
-## Recursos Necessários
-- [ ] Recurso 1
-- [ ] Recurso 2
+## Timeline
+- **Start Date**: 
+- **Due Date**: 
+- **Key Milestones**:
+  1. Milestone 1
+  2. Milestone 2
 
-## Dependências
-- Precisa ser feito antes: [[projeto1]], [[projeto2]]
-- Bloqueia: [[projeto3]], [[projeto4]]
+## Dependencies
+### Prerequisites
+- Must be completed first: [[project1]], [[project2]]
+- Blocking: [[project3]], [[project4]]
 
-## Tarefas
-### Fase 1: Planejamento
-- [ ] Tarefa 1.1
-- [ ] Tarefa 1.2
+## Required Resources
+- [ ] Resource 1
+- [ ] Resource 2
 
-### Fase 2: Execução
-- [ ] Tarefa 2.1
-- [ ] Tarefa 2.2
+## Tasks
+### Phase 1: Planning
+- [ ] Task 1.1
+- [ ] Task 1.2
 
-## Log de Progresso
+### Phase 2: Execution
+- [ ] Task 2.1
+- [ ] Task 2.2
+
+## Progress Log
 ### {{date}}
-- O que foi feito:
-- Próximos passos:
-- Obstáculos:
+- Completed:
+- Next steps:
+- Blockers:
 
-## Riscos e Mitigações
-1. Risco 1
-   - Mitigação:
-
-2. Risco 2
-   - Mitigação:
-
-## Métricas de Sucesso
-1. Métrica 1
-2. Métrica 2
-
-## Referências e Recursos
-- [Link 1](url) - Descrição
-- [Link 2](url) - Descrição
+## References & Resources
+- [Link 1](url) - Description
+- [Link 2](url) - Description

@@ -24,7 +24,6 @@ Identify the primary nature of the note, helping with basic content categorizati
 - `#type/idea` → Insights and brainstorming
 - `#type/reflection` → Personal thoughts and analysis
 - `#type/habits` → Routines and habits
-- `#type/reading` → Reading notes and Readwise imports
 
 ## **2. Context Tags**
 Indicate the environment or circumstance where the note applies.

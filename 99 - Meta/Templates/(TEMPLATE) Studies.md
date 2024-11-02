@@ -5,31 +5,31 @@ tags:
   - type/study
   - context/studies
   - theme/default
-  - priority/high
   - status/in-progress
   - review/pending
-date:
-  "{{date}}": 
-date_update:
-  "{{date}}":
+date: {{date}}
+last_updated: {{date}}
 ---
 
-# Estudo de [Tema]
+# Study: {{title}}
 
-## Objetivo
-Qual é o objetivo deste estudo?
+## Objective
+What is the goal of this study?
 
-## Conteúdo
-- Conceito 1
-- Conceito 2
+## Content
+### Topic 1
+Main content here...
 
-## Perguntas para Revisão
-- Pergunta 1
-- Pergunta 2
+### Topic 2
+Main content here...
 
-## Resumo
-Escreva um resumo sobre o que aprendeu.
+## Review Questions
+- Question 1?
+- Question 2?
 
-## Referências
-- [Referência 1](link)
-- [Referência 2](link)
+## Summary
+Write a summary of what you've learned.
+
+## References
+- [Reference 1](link)
+- [Reference 2](link)
