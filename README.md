@@ -158,17 +158,14 @@ The system incorporates practices from:
 
 ## ⚙️ Recommended Plugins
 
-### Essential:
+### Recommended community plugins:
 - Iconize
 - Homepage
 - Dataview
 - Calendar
-- Backlinks
-- Templates
-- Daily Notes
-
-### Optional:
 - Tag Wrangler
+
+### Suggestions to expand:
 - Graph Analysis
 - Natural Language Dates
 - Mind Map

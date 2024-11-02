@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Dashboard/HOME.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HOME"
+              "title": "README"
             }
           }
         ]
@@ -140,20 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Dashboard/HOME.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of HOME"
-            }
-          },
-          {
-            "id": "ec7dad01632b5f8d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outline of README"
             }
           }
         ],
@@ -170,17 +160,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "00 - Dashboard/HOME.md",
     "README.md",
     "99 - Meta/Organizacao/Como classificar notas com tags.md",
     "99 - Meta/Templates/(TEMPLATE) Daily.md",
-    "00 - Dashboard/HOME.md",
     "01 - Pessoal/Diario/2024-10-20.md",
     "01 - Pessoal/Saude/Rotina.md",
     "99 - Meta/Organizacao/Guia de uso da Vault.md",
