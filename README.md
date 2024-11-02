@@ -110,7 +110,7 @@ Computing:
 #theme/dev           → Development
 #theme/os            → Operating systems
 #theme/algorithms    → Algorithms and structures
-#theme/AI           → Artificial intelligence
+#theme/AI            → Artificial intelligence
 
 ...and much more (see complete tag guide)
 ```
