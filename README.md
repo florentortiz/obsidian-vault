@@ -110,7 +110,7 @@ Computing:
 #theme/dev           → Development
 #theme/os            → Operating systems
 #theme/algorithms    → Algorithms and structures
-#theme/AI            → Artificial intelligence
+#theme/AI           → Artificial intelligence
 
 ...and much more (see complete tag guide)
 ```
@@ -156,22 +156,23 @@ The system incorporates practices from:
 - **Interrogative Elaboration**: Question-based learning
 - **Cornell Method**: Systematic note-taking and review
 
-## ⚙️ Recommended Plugins
+## ⚙️ Suggested Plugins
 
-### Recommended community plugins:
-- Iconize
-- Homepage
-- Dataview
-- Calendar
-- Tag Wrangler
+This template is designed to work without any community plugins, allowing you to start clean and build based on your needs. Here are some plugin suggestions that can enhance your experience:
 
-### Suggestions to expand:
-- Graph Analysis
-- Natural Language Dates
-- Mind Map
-- Kanban
-- Templater
-- Outliner
+### Core functionality enhancers:
+- Dataview: For advanced data queries and dynamic content, making the best use of properties
+- Calendar: Better date management and daily notes
+- Tag Wrangler: Improved tag management
+- Homepage: Custom startup page
+- Iconize: Visual enhancement with icons
+
+### Optional extensions:
+- Natural Language Dates: More intuitive date inputs
+- Kanban: Visual task management
+- Templater: Advanced template functionality
+
+All plugins are optional - feel free to install only what fits your workflow!
 
 ## 🤝 Contributing
 
