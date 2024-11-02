@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "00 - Dashboard/HOME.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "HOME"
             }
           }
         ]
@@ -151,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 407.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,9 +165,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02 - Knowledge/Computer/Algorithm_complexity.md",
-    "00 - Dashboard/HOME.md",
     "README.md",
+    "99 - Meta/System/Practical Usage Guide.md",
+    "99 - Meta/System/Organizational Methods in Obsidian.md",
+    "99 - Meta/System/Guide to Tags and Links - Note Organization in Obsidian.md",
+    "99 - Meta/System/General guide.md",
+    "00 - Dashboard/HOME.md",
+    "Routine.md",
+    "02 - Knowledge/Computer/Algorithm_complexity.md",
     "99 - Meta/Organizacao/Como classificar notas com tags.md",
     "99 - Meta/Templates/(TEMPLATE) Daily.md",
     "01 - Pessoal/Diario/2024-10-20.md",
@@ -186,11 +191,6 @@
     "01 - Pessoal/Fleeting/Prompt para claude.md",
     "01 - Pessoal/Saude/Dieta.md",
     "contexto pessoal.md",
-    "01 - Pessoal/Fleeting/Artigos para checar.md",
-    "01 - Pessoal/Fleeting/Coisas para investigar.md",
-    "01 - Pessoal/Saude/Lista de Compras.md",
-    "01 - Pessoal/Reflexoes/2023-12-27 Não consigo aproveitar férias.md",
-    "01 - Pessoal/Reflexoes/2023-11-29 Me pressiono a ser produtivo.md",
     "04- Referencias/Cursos",
     "02 - Conhecimento/Historia",
     "02 - Conhecimento/Saude",

@@ -4,8 +4,8 @@
 > "Life is what happens while you're busy making other plans." - John Lennon
 
 > [!warning] **Important Notice**
-> - This dashboard is just an example, which assumes notes
-> - that don't exist in your vault. Please adapt it to your use.
+> - This dashboard is just an example, which assumes notes that don't exist in your vault and the "Dataview" plugin.
+> - Please adapt it to your use.
 > - Take this as inspiration to create your own dashboard.
 
 
