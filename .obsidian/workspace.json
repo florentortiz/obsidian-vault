@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#type/project",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +76,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Estudos/Obsidian/Como classificar notas com tags.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Como classificar notas com tags"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -116,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Estudos/Obsidian/Como classificar notas com tags.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Como classificar notas com tags"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -143,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Untitled.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -159,12 +158,12 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 407.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
