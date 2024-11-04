@@ -11,17 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "99 - Meta/Templates/(TEMPLATE) Daily.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "(TEMPLATE) Daily"
             }
           }
         ]
@@ -158,7 +156,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -178,24 +177,24 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "00 - Dashboard/HOME.md",
-    "Untitled.canvas",
-    "README.md",
-    "99 - Meta/Templates/(TEMPLATE) Task.md",
-    "sda.md",
-    "99 - Meta/Templates/(TEMPLATE) Daily.md",
-    "99 - Meta/Templates/(TEMPLATE) Studies.md",
-    "99 - Meta/Templates/(TEMPLATE) Review.md",
-    "99 - Meta/Templates/(TEMPLATE) Reflection.md",
-    "99 - Meta/Templates/(TEMPLATE) Project.md",
     "99 - Meta/Templates/(TEMPLATE) Idea.md",
-    "aaa.md",
     "99 - Meta/System/Practical Usage Guide.md",
     "99 - Meta/System/Organizational Methods in Obsidian.md",
     "99 - Meta/System/Guide to Tags and Links - Note Organization in Obsidian.md",
     "99 - Meta/System/General guide.md",
-    "Routine.md",
+    "99 - Meta/Templates/(TEMPLATE) Daily.md",
+    "README.md",
+    "Untitled.canvas",
     "02 - Knowledge/Computer/Algorithm_complexity.md",
+    "00 - Dashboard/HOME.md",
+    "99 - Meta/Templates/(TEMPLATE) Task.md",
+    "sda.md",
+    "99 - Meta/Templates/(TEMPLATE) Studies.md",
+    "99 - Meta/Templates/(TEMPLATE) Review.md",
+    "99 - Meta/Templates/(TEMPLATE) Reflection.md",
+    "99 - Meta/Templates/(TEMPLATE) Project.md",
+    "aaa.md",
+    "Routine.md",
     "99 - Meta/Organizacao/Como classificar notas com tags.md",
     "01 - Pessoal/Diario/2024-10-20.md",
     "01 - Pessoal/Saude/Rotina.md",
