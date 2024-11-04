@@ -11,13 +11,15 @@
             "id": "46d32944122c4799",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "99 - Meta/Templates/(TEMPLATE) Daily.md",
-                "staged": false
+                "file": "01 - Personal/Plans/Fleetingnotes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View ((TEMPLATE) Daily)"
+              "icon": "lucide-file",
+              "title": "Fleetingnotes"
             }
           }
         ]
@@ -169,12 +171,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "46d32944122c4799",
   "lastOpenFiles": [
+    "01 - Personal/Plans/Fleetingnotes.md",
+    "03 - Projects/Fleetingnote/Fleetnote.md",
     "99 - Meta/Templates/(TEMPLATE) Feelings.md",
     "99 - Meta/Templates/(TEMPLATE) Reflection.md",
     "99 - Meta/Templates/(TEMPLATE) Project.md",
@@ -200,8 +203,6 @@
     "99 - Meta/System/Organizational Methods in Obsidian.md",
     "99 - Meta/Templates/(TEMPLATE) Task.md",
     "sda.md",
-    "99 - Meta/Templates/(TEMPLATE) Studies.md",
-    "99 - Meta/Templates/(TEMPLATE) Review.md",
     "04- Referencias/Cursos",
     "02 - Conhecimento/Historia",
     "02 - Conhecimento/Saude",
