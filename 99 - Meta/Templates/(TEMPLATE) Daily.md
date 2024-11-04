@@ -7,7 +7,6 @@ tags:
 date: {{date}}
 last_updated: {{date}}
 ---
-
 # Daily Note - {{date}}
 
 ## Today's Focus

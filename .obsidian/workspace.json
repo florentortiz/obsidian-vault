@@ -4,22 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "6f67aeef7083f4b6",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "46d32944122c4799",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "99 - Meta/Templates/(TEMPLATE) Daily.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "(TEMPLATE) Daily"
+              "icon": "git-pull-request",
+              "title": "Diff View ((TEMPLATE) Daily)"
             }
           }
         ]
@@ -53,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:status/planning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5,
-    "collapsed": true
+    "width": 407.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,37 +169,39 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "46d32944122c4799",
   "lastOpenFiles": [
+    "99 - Meta/Templates/(TEMPLATE) Feelings.md",
+    "99 - Meta/Templates/(TEMPLATE) Reflection.md",
+    "99 - Meta/Templates/(TEMPLATE) Project.md",
     "99 - Meta/Templates/(TEMPLATE) Idea.md",
-    "99 - Meta/System/Practical Usage Guide.md",
-    "99 - Meta/System/Organizational Methods in Obsidian.md",
-    "99 - Meta/System/Guide to Tags and Links - Note Organization in Obsidian.md",
-    "99 - Meta/System/General guide.md",
+    "01 - Personal/Daily/2024-11-04.md",
+    "03 - Projects/Wellbeing dashboard/Wellbeing dashboard.md",
+    "project1.md",
+    "project3.md",
     "99 - Meta/Templates/(TEMPLATE) Daily.md",
-    "README.md",
     "Untitled.canvas",
+    "Untitled.md",
+    "01 - Personal/Daily/2024-11-04 175843.md",
+    "01 - Personal/Daily/2024-11-04 175715.md",
+    "99 - Meta/Templates/2024-11-04.md",
+    "99 - Meta/System/General guide.md",
+    "99 - Meta/System/Guide to Tags and Links - Note Organization in Obsidian.md",
+    "README.md",
+    "01 - Personal/Daily/Untitled 1.md",
+    "01 - Personal/Daily/Daily {{date}}.md",
     "02 - Knowledge/Computer/Algorithm_complexity.md",
     "00 - Dashboard/HOME.md",
+    "99 - Meta/System/Practical Usage Guide.md",
+    "99 - Meta/System/Organizational Methods in Obsidian.md",
     "99 - Meta/Templates/(TEMPLATE) Task.md",
     "sda.md",
     "99 - Meta/Templates/(TEMPLATE) Studies.md",
     "99 - Meta/Templates/(TEMPLATE) Review.md",
-    "99 - Meta/Templates/(TEMPLATE) Reflection.md",
-    "99 - Meta/Templates/(TEMPLATE) Project.md",
-    "aaa.md",
-    "Routine.md",
-    "99 - Meta/Organizacao/Como classificar notas com tags.md",
-    "01 - Pessoal/Diario/2024-10-20.md",
-    "01 - Pessoal/Saude/Rotina.md",
-    "99 - Meta/Organizacao/Guia de uso da Vault.md",
-    "99 - Meta/Organizacao/Métodos Organizacionais no Obsidian.md",
-    "99 - Meta/Templates/(TEMPLATE) Tarefa.md",
-    "99 - Meta/Templates/(TEMPLATE) Projeto.md",
-    "99 - Meta/Templates/(TEMPLATE) Ideia.md",
     "04- Referencias/Cursos",
     "02 - Conhecimento/Historia",
     "02 - Conhecimento/Saude",
