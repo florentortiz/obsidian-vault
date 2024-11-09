@@ -10,7 +10,7 @@ date: 2024-11-04
 last_updated: 2024-11-04
 ---
 
-# Idea: Untitled
+# Idea: Note sync phone -> Obsidian
 
 ## Description
 Use a tool to sync my note from my mobile to Obsidian

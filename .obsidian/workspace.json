@@ -13,16 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Personal/Plans/Fleetingnotes.md",
+                "file": "01 - Personal/Daily/2024-11-05.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fleetingnotes"
+              "title": "2024-11-05"
+            }
+          },
+          {
+            "id": "5f7a28df983ad7bf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,19 +187,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46d32944122c4799",
+  "active": "5f7a28df983ad7bf",
   "lastOpenFiles": [
-    "01 - Personal/Plans/Fleetingnotes.md",
+    "01 - Personal/Daily/2024-11-04.md",
+    "01 - Personal/Daily/2024-11-05.md",
+    "01 - Personal/Ideas/Fleetingnotes.md",
+    "99 - Meta/Templates/(TEMPLATE) Idea.md",
+    "99 - Meta/Templates/(TEMPLATE) Daily.md",
     "03 - Projects/Fleetingnote/Fleetnote.md",
     "99 - Meta/Templates/(TEMPLATE) Feelings.md",
     "99 - Meta/Templates/(TEMPLATE) Reflection.md",
     "99 - Meta/Templates/(TEMPLATE) Project.md",
-    "99 - Meta/Templates/(TEMPLATE) Idea.md",
-    "01 - Personal/Daily/2024-11-04.md",
     "03 - Projects/Wellbeing dashboard/Wellbeing dashboard.md",
     "project1.md",
     "project3.md",
-    "99 - Meta/Templates/(TEMPLATE) Daily.md",
     "Untitled.canvas",
     "Untitled.md",
     "01 - Personal/Daily/2024-11-04 175843.md",
@@ -202,7 +216,6 @@
     "99 - Meta/System/Practical Usage Guide.md",
     "99 - Meta/System/Organizational Methods in Obsidian.md",
     "99 - Meta/Templates/(TEMPLATE) Task.md",
-    "sda.md",
     "04- Referencias/Cursos",
     "02 - Conhecimento/Historia",
     "02 - Conhecimento/Saude",
