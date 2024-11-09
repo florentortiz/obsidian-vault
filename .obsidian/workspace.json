@@ -26,12 +26,15 @@
             "id": "5f7a28df983ad7bf",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.5"
+                "file": "01 - Personal/Daily/2024-11-09.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "2024-11-09"
             }
           }
         ],
@@ -187,8 +190,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f7a28df983ad7bf",
+  "active": "68bb7de61e844525",
   "lastOpenFiles": [
+    "01 - Personal/Daily/2024-11-09.md",
     "01 - Personal/Daily/2024-11-04.md",
     "01 - Personal/Daily/2024-11-05.md",
     "01 - Personal/Ideas/Fleetingnotes.md",
@@ -215,7 +219,6 @@
     "00 - Dashboard/HOME.md",
     "99 - Meta/System/Practical Usage Guide.md",
     "99 - Meta/System/Organizational Methods in Obsidian.md",
-    "99 - Meta/Templates/(TEMPLATE) Task.md",
     "04- Referencias/Cursos",
     "02 - Conhecimento/Historia",
     "02 - Conhecimento/Saude",
