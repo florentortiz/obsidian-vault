@@ -13,10 +13,11 @@ last_updated: {{date}}
 Main goal for today:
 
 ## Wellbeing Metrics
-- Sleep: _/10
-- Energy: _/10
-- Mood: _/10
-- Productivity: _/10
+Have to be define from 0 to 10 :
+- Sleep::
+- Energy::
+- Mood::
+- Productivity::
 
 ## Habits
 - [ ] Exercise
