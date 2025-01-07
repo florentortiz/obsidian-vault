@@ -13,29 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Personal/Daily/2024-11-23.md",
+                "file": "01 - Personal/Daily/2024-12-01.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-23"
-            }
-          },
-          {
-            "id": "d892308ffb35d774",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "2024-12-01"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,10 +174,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d892308ffb35d774",
+  "active": "bf1517dc08c8916f",
   "lastOpenFiles": [
-    "01 - Personal/Reflections/Mkcert.md",
     "01 - Personal/Daily/2024-11-23.md",
+    "01 - Personal/Daily/2024-12-01.md",
+    "01 - Personal/Reflections/Mkcert.md",
     "99 - Meta/Templates/(TEMPLATE) Reflection.md",
     "Untitled.md",
     "Untitled.canvas",
@@ -215,7 +203,6 @@
     "99 - Meta/System/General guide.md",
     "99 - Meta/System/Guide to Tags and Links - Note Organization in Obsidian.md",
     "README.md",
-    "01 - Personal/Daily/Untitled 1.md",
     "04- Referencias/Cursos",
     "02 - Conhecimento/Historia",
     "02 - Conhecimento/Saude",
