@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2bd4cc39859dec3a",
+        "id": "08532a5c9d612216",
         "type": "tabs",
         "children": [
           {
-            "id": "bf1517dc08c8916f",
+            "id": "017de6f7d5c60767",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "02 - Knowledge/Memecoin/MOC.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (MOC)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -174,7 +171,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf1517dc08c8916f",
+  "active": "1263d1c9a07cbcf2",
   "lastOpenFiles": [
     "02 - Knowledge/Memecoin/MOC.md",
     "README.md",
