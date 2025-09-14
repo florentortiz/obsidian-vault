@@ -10,7 +10,6 @@ tags:
 date: 2025-09-14
 last_updated: 2025-09-14
 ---
-
 # Study: MOC
 
 ## Objective
@@ -29,6 +28,14 @@ https://fomosol.notion.site/Updated-Solana-Wallet-Hunting-Strategy-153e342a32208
 Use sentiment analysis tools like [X-Alpha](https://t.me/xalpha_bot?start=connect_FA06A333) to track upward mentions. This is a good sign for early coins.
 
 Require Telegram
+
+## Todo
+- [ ] Setup environment
+- [ ] Documentation on how to setup
+- [ ] Find wallet that go on multiple working coins
+- [ ] Documentation on how to do this
+- [ ] XXXX
+- [ ] XXX
 
 ## Review Questions
 - TBD - Question 1?
