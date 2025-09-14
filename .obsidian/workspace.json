@@ -13,16 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Knowledge/Computer/Penny-Stock.md",
+                "file": "01 - Personal/Ideas/Fleetingnotes.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Penny-Stock"
+              "title": "Fleetingnotes"
+            }
+          },
+          {
+            "id": "b26ac6bad57feff2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +63,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -165,6 +188,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -174,35 +198,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf1517dc08c8916f",
+  "active": "b26ac6bad57feff2",
   "lastOpenFiles": [
+    "01 - Personal/Daily/2025-09-14.md",
+    "README.md",
     "02 - Knowledge/Computer/Algorithm_complexity.md",
+    "99 - Meta/System/General guide.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "99 - Meta/Templates/(TEMPLATE) Reflection.md",
+    "99 - Meta/Templates/(TEMPLATE) Project.md",
+    "99 - Meta/Templates/(TEMPLATE) Idea.md",
+    "99 - Meta/Templates/(TEMPLATE) Feelings.md",
+    "99 - Meta/Templates/(TEMPLATE) Daily.md",
+    "99 - Meta/System/Practical Usage Guide.md",
+    "99 - Meta/System/Organizational Methods in Obsidian.md",
+    "99 - Meta/System/Guide to Tags and Links - Note Organization in Obsidian.md",
+    "03 - Projects/Wellbeing dashboard/Wellbeing dashboard.md",
     "02 - Knowledge/Computer/Penny-Stock.md",
     "01 - Personal/Daily/2025-01-07.md",
     "01 - Personal/Daily/2024-12-01.md",
     "01 - Personal/Daily/Untitled.md",
     "01 - Personal/Daily/2024-11-23.md",
     "01 - Personal/Reflections/Mkcert.md",
-    "99 - Meta/Templates/(TEMPLATE) Reflection.md",
-    "Untitled.md",
-    "Untitled.canvas",
     "01 - Personal/Daily/2024-11-17.md",
     "01 - Personal/Daily/2024-11-10.md",
     "01 - Personal/Daily/2024-11-09.md",
     "01 - Personal/Daily/2024-11-05.md",
     "01 - Personal/Daily/2024-11-04.md",
-    "99 - Meta/Templates/(TEMPLATE) Daily.md",
     "01 - Personal/Ideas/Fleetingnotes.md",
-    "99 - Meta/Templates/(TEMPLATE) Idea.md",
-    "03 - Projects/Fleetingnote/Fleetnote.md",
-    "99 - Meta/Templates/(TEMPLATE) Feelings.md",
-    "99 - Meta/Templates/(TEMPLATE) Project.md",
-    "03 - Projects/Wellbeing dashboard/Wellbeing dashboard.md",
-    "project1.md",
-    "project3.md",
-    "01 - Personal/Daily/2024-11-04 175843.md",
-    "01 - Personal/Daily/2024-11-04 175715.md",
-    "99 - Meta/Templates/2024-11-04.md",
     "04- Referencias/Cursos",
     "02 - Conhecimento/Historia",
     "02 - Conhecimento/Saude",
