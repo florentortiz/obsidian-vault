@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Personal/Ideas/Fleetingnotes.md",
+                "file": "02 - Knowledge/Memecoin/MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fleetingnotes"
-            }
-          },
-          {
-            "id": "b26ac6bad57feff2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "title": "MOC"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:status/planning",
+                "query": "tag:context/default",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,16 +185,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b26ac6bad57feff2",
+  "active": "bf1517dc08c8916f",
   "lastOpenFiles": [
-    "01 - Personal/Daily/2025-09-14.md",
     "README.md",
+    "02 - Knowledge/Memecoin/MOC.md",
+    "01 - Personal/Ideas/Fleetingnotes.md",
+    "02 - Knowledge/Memecoin",
+    "03 - Projects/Memecoins/Memecoin.md",
+    "Untitled.base",
+    "99 - Meta/Templates/(TEMPLATE) Project.md",
+    "03 - Projects/Memecoins/Memecoins study.md",
+    "03 - Projects/Memecoins",
+    "01 - Personal/Daily/2025-09-14.md",
     "02 - Knowledge/Computer/Algorithm_complexity.md",
     "99 - Meta/System/General guide.md",
     "Untitled.canvas",
     "Untitled.md",
     "99 - Meta/Templates/(TEMPLATE) Reflection.md",
-    "99 - Meta/Templates/(TEMPLATE) Project.md",
     "99 - Meta/Templates/(TEMPLATE) Idea.md",
     "99 - Meta/Templates/(TEMPLATE) Feelings.md",
     "99 - Meta/Templates/(TEMPLATE) Daily.md",
@@ -223,19 +217,12 @@
     "01 - Personal/Reflections/Mkcert.md",
     "01 - Personal/Daily/2024-11-17.md",
     "01 - Personal/Daily/2024-11-10.md",
-    "01 - Personal/Daily/2024-11-09.md",
-    "01 - Personal/Daily/2024-11-05.md",
-    "01 - Personal/Daily/2024-11-04.md",
-    "01 - Personal/Ideas/Fleetingnotes.md",
     "04- Referencias/Cursos",
     "02 - Conhecimento/Historia",
     "02 - Conhecimento/Saude",
     "02 - Conhecimento/Literatura",
     "01 - Pessoa/Diario",
     "01 - Pessoa",
-    "Diário",
-    "05 - Arquivados",
-    "05 - Referencias/Untitled",
-    "06 - Readwise/Books"
+    "Diário"
   ]
 }
